@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sandra Metry
 - Aspiring Data Analyst | Data Enthusiast | Power BI & Python Aficionado
 Welcome to my GitHub profile! I am a passionate data analyst in training, with a keen interest in transforming raw data into actionable insights. My journey in data analytics involves working with various tools like Python, SQL,Tableau and Power BI to analyze and visualize data, uncovering meaningful patterns and trends.
-🔍 About Me
 🎓 Education: I’m continually learning and expanding my knowledge in data analysis and visualization.
 💡 Skills: Data Cleaning, Data Analysis, Data Visualization, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Excel
 📊 Focus Areas: E-commerce data analysis, customer segmentation, sales trend analysis, and interactive dashboard creation.
