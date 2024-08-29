@@ -6,15 +6,12 @@ Welcome to my GitHub profile! I am a passionate data analyst in training, with a
 📊 Focus Areas: E-commerce data analysis, customer segmentation, sales trend analysis, and interactive dashboard creation.
 🌟 Passion: I love diving deep into data, discovering insights, and presenting them in a way that tells a compelling story.
 🌱 Learning: Advanced data visualization techniques and machine learning basics.
-
 🛠️ Featured Projects.
 1.Analyzing Online Retail Sales Trends: A comprehensive analysis of online retail sales data, focusing on identifying key trends and patterns to drive business insights using Power BI,SQL and Python.
 2.Dataset an online ecommerce store selling different product categories and subcategories to customers from different territories using Power BI.
-
 📫 How to Reach Me
 LinkedIn: Connect with me on LinkedIn (https://www.linkedin.com/in/sandra-sorial-28a794133/)
 Email: sandrametry93@gmail.com
-
 ⚡ Fun Fact
 When I'm not analyzing data, you can find me exploring new technologies, reading about the latest in data science, or experimenting with new recipes in the kitchen!
 
